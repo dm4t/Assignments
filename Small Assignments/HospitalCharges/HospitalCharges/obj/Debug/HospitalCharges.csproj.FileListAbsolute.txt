@@ -1,0 +1,9 @@
+C:\Users\m-vas\source\repos\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.Form1.resources
+C:\Users\m-vas\source\repos\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.Properties.Resources.resources
+C:\Users\m-vas\source\repos\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.csproj.GenerateResource.cache
+C:\Users\m-vas\source\repos\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.csproj.CoreCompileInputs.cache
+C:\Users\m-vas\source\repos\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.exe.config
+C:\Users\m-vas\source\repos\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.exe
+C:\Users\m-vas\source\repos\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.pdb
+C:\Users\m-vas\source\repos\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.exe
+C:\Users\m-vas\source\repos\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.pdb

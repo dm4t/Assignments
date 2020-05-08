@@ -1,0 +1,10 @@
+C:\Users\m-vas\source\repos\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.exe.config
+C:\Users\m-vas\source\repos\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.exe
+C:\Users\m-vas\source\repos\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.pdb
+C:\Users\m-vas\source\repos\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail_Price_Calculator.Form1.resources
+C:\Users\m-vas\source\repos\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail_Price_Calculator.Properties.Resources.resources
+C:\Users\m-vas\source\repos\Retail Price Calculator\Retail Price Calculator\obj\Debug\RetailPriceCalc.csproj.GenerateResource.cache
+C:\Users\m-vas\source\repos\Retail Price Calculator\Retail Price Calculator\obj\Debug\RetailPriceCalc.csproj.CoreCompileInputs.cache
+C:\Users\m-vas\source\repos\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail Price Calculator.exe
+C:\Users\m-vas\source\repos\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail Price Calculator.pdb
+C:\Users\m-vas\source\repos\Retail Price Calculator\Retail Price Calculator\obj\Debug\RetailPriceCalc.csprojAssemblyReference.cache

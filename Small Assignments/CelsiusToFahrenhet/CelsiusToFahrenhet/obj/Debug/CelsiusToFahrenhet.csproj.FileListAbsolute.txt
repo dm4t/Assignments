@@ -1,0 +1,9 @@
+C:\Users\m-vas\source\repos\CelsiusToFahrenhet\CelsiusToFahrenhet\bin\Debug\CelsiusToFahrenhet.exe.config
+C:\Users\m-vas\source\repos\CelsiusToFahrenhet\CelsiusToFahrenhet\bin\Debug\CelsiusToFahrenhet.exe
+C:\Users\m-vas\source\repos\CelsiusToFahrenhet\CelsiusToFahrenhet\bin\Debug\CelsiusToFahrenhet.pdb
+C:\Users\m-vas\source\repos\CelsiusToFahrenhet\CelsiusToFahrenhet\obj\Debug\CelsiusToFahrenhet.csprojAssemblyReference.cache
+C:\Users\m-vas\source\repos\CelsiusToFahrenhet\CelsiusToFahrenhet\obj\Debug\CelsiusToFahrenhet.Form1.resources
+C:\Users\m-vas\source\repos\CelsiusToFahrenhet\CelsiusToFahrenhet\obj\Debug\CelsiusToFahrenhet.Properties.Resources.resources
+C:\Users\m-vas\source\repos\CelsiusToFahrenhet\CelsiusToFahrenhet\obj\Debug\CelsiusToFahrenhet.csproj.GenerateResource.cache
+C:\Users\m-vas\source\repos\CelsiusToFahrenhet\CelsiusToFahrenhet\obj\Debug\CelsiusToFahrenhet.exe
+C:\Users\m-vas\source\repos\CelsiusToFahrenhet\CelsiusToFahrenhet\obj\Debug\CelsiusToFahrenhet.pdb

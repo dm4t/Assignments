@@ -1,0 +1,9 @@
+C:\Users\m-vas\source\repos\CaloriesBurnerWhile\CaloriesBurnerWhile\bin\Debug\CaloriesBurnerWhile.exe.config
+C:\Users\m-vas\source\repos\CaloriesBurnerWhile\CaloriesBurnerWhile\bin\Debug\CaloriesBurnerWhile.exe
+C:\Users\m-vas\source\repos\CaloriesBurnerWhile\CaloriesBurnerWhile\bin\Debug\CaloriesBurnerWhile.pdb
+C:\Users\m-vas\source\repos\CaloriesBurnerWhile\CaloriesBurnerWhile\obj\Debug\CaloriesBurnerWhile.Form1.resources
+C:\Users\m-vas\source\repos\CaloriesBurnerWhile\CaloriesBurnerWhile\obj\Debug\CaloriesBurnerWhile.Properties.Resources.resources
+C:\Users\m-vas\source\repos\CaloriesBurnerWhile\CaloriesBurnerWhile\obj\Debug\CaloriesBurnerWhile.csproj.GenerateResource.cache
+C:\Users\m-vas\source\repos\CaloriesBurnerWhile\CaloriesBurnerWhile\obj\Debug\CaloriesBurnerWhile.csproj.CoreCompileInputs.cache
+C:\Users\m-vas\source\repos\CaloriesBurnerWhile\CaloriesBurnerWhile\obj\Debug\CaloriesBurnerWhile.exe
+C:\Users\m-vas\source\repos\CaloriesBurnerWhile\CaloriesBurnerWhile\obj\Debug\CaloriesBurnerWhile.pdb

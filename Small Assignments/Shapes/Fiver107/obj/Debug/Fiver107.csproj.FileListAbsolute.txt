@@ -1,0 +1,7 @@
+C:\Users\Martin\source\repos\Fiver107\Fiver107\bin\Debug\Fiver107.exe.config
+C:\Users\Martin\source\repos\Fiver107\Fiver107\bin\Debug\Fiver107.exe
+C:\Users\Martin\source\repos\Fiver107\Fiver107\bin\Debug\Fiver107.pdb
+C:\Users\Martin\source\repos\Fiver107\Fiver107\obj\Debug\Fiver107.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\Fiver107\Fiver107\obj\Debug\Fiver107.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\Fiver107\Fiver107\obj\Debug\Fiver107.exe
+C:\Users\Martin\source\repos\Fiver107\Fiver107\obj\Debug\Fiver107.pdb

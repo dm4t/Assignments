@@ -1,0 +1,10 @@
+C:\Users\m-vas\source\repos\Calories Burned\Calories Burned\bin\Debug\Calories Burned.exe.config
+C:\Users\m-vas\source\repos\Calories Burned\Calories Burned\bin\Debug\Calories Burned.exe
+C:\Users\m-vas\source\repos\Calories Burned\Calories Burned\bin\Debug\Calories Burned.pdb
+C:\Users\m-vas\source\repos\Calories Burned\Calories Burned\obj\Debug\Calories Burned.csprojAssemblyReference.cache
+C:\Users\m-vas\source\repos\Calories Burned\Calories Burned\obj\Debug\Calories_Burned.Form1.resources
+C:\Users\m-vas\source\repos\Calories Burned\Calories Burned\obj\Debug\Calories_Burned.Properties.Resources.resources
+C:\Users\m-vas\source\repos\Calories Burned\Calories Burned\obj\Debug\Calories Burned.csproj.GenerateResource.cache
+C:\Users\m-vas\source\repos\Calories Burned\Calories Burned\obj\Debug\Calories Burned.csproj.CoreCompileInputs.cache
+C:\Users\m-vas\source\repos\Calories Burned\Calories Burned\obj\Debug\Calories Burned.exe
+C:\Users\m-vas\source\repos\Calories Burned\Calories Burned\obj\Debug\Calories Burned.pdb

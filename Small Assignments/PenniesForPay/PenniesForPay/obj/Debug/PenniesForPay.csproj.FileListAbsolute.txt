@@ -1,0 +1,18 @@
+C:\Users\m-vas\source\repos\PenniesForPay\PenniesForPay\bin\Debug\PenniesForPay.exe.config
+C:\Users\m-vas\source\repos\PenniesForPay\PenniesForPay\bin\Debug\PenniesForPay.exe
+C:\Users\m-vas\source\repos\PenniesForPay\PenniesForPay\bin\Debug\PenniesForPay.pdb
+C:\Users\m-vas\source\repos\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.csprojAssemblyReference.cache
+C:\Users\m-vas\source\repos\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.Form1.resources
+C:\Users\m-vas\source\repos\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.Properties.Resources.resources
+C:\Users\m-vas\source\repos\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.csproj.GenerateResource.cache
+C:\Users\m-vas\source\repos\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.exe
+C:\Users\m-vas\source\repos\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.pdb
+C:\Users\m-vas\Desktop\Fiver1\Project Solutions\PenniesForPay\PenniesForPay\bin\Debug\PenniesForPay.exe.config
+C:\Users\m-vas\Desktop\Fiver1\Project Solutions\PenniesForPay\PenniesForPay\bin\Debug\PenniesForPay.exe
+C:\Users\m-vas\Desktop\Fiver1\Project Solutions\PenniesForPay\PenniesForPay\bin\Debug\PenniesForPay.pdb
+C:\Users\m-vas\Desktop\Fiver1\Project Solutions\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.csprojAssemblyReference.cache
+C:\Users\m-vas\Desktop\Fiver1\Project Solutions\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.Form1.resources
+C:\Users\m-vas\Desktop\Fiver1\Project Solutions\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.Properties.Resources.resources
+C:\Users\m-vas\Desktop\Fiver1\Project Solutions\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.csproj.GenerateResource.cache
+C:\Users\m-vas\Desktop\Fiver1\Project Solutions\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.exe
+C:\Users\m-vas\Desktop\Fiver1\Project Solutions\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.pdb

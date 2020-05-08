@@ -1,0 +1,9 @@
+C:\Users\m-vas\source\repos\Prime Numbers\Prime Numbers\bin\Debug\Prime Numbers.exe.config
+C:\Users\m-vas\source\repos\Prime Numbers\Prime Numbers\bin\Debug\Prime Numbers.exe
+C:\Users\m-vas\source\repos\Prime Numbers\Prime Numbers\bin\Debug\Prime Numbers.pdb
+C:\Users\m-vas\source\repos\Prime Numbers\Prime Numbers\obj\Debug\Prime_Numbers.Form1.resources
+C:\Users\m-vas\source\repos\Prime Numbers\Prime Numbers\obj\Debug\Prime_Numbers.Properties.Resources.resources
+C:\Users\m-vas\source\repos\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.csproj.GenerateResource.cache
+C:\Users\m-vas\source\repos\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.csproj.CoreCompileInputs.cache
+C:\Users\m-vas\source\repos\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.exe
+C:\Users\m-vas\source\repos\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.pdb

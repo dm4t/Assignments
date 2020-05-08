@@ -1,0 +1,10 @@
+C:\Users\m-vas\source\repos\FactorialWithMethod\FactorialWithMethod\obj\Debug\FactorialWithMethod.csprojAssemblyReference.cache
+C:\Users\m-vas\source\repos\FactorialWithMethod\FactorialWithMethod\obj\Debug\FactorialWithMethod.Form1.resources
+C:\Users\m-vas\source\repos\FactorialWithMethod\FactorialWithMethod\obj\Debug\FactorialWithMethod.Properties.Resources.resources
+C:\Users\m-vas\source\repos\FactorialWithMethod\FactorialWithMethod\obj\Debug\FactorialWithMethod.csproj.GenerateResource.cache
+C:\Users\m-vas\source\repos\FactorialWithMethod\FactorialWithMethod\obj\Debug\FactorialWithMethod.csproj.CoreCompileInputs.cache
+C:\Users\m-vas\source\repos\FactorialWithMethod\FactorialWithMethod\bin\Debug\FactorialWithMethod.exe.config
+C:\Users\m-vas\source\repos\FactorialWithMethod\FactorialWithMethod\bin\Debug\FactorialWithMethod.exe
+C:\Users\m-vas\source\repos\FactorialWithMethod\FactorialWithMethod\bin\Debug\FactorialWithMethod.pdb
+C:\Users\m-vas\source\repos\FactorialWithMethod\FactorialWithMethod\obj\Debug\FactorialWithMethod.exe
+C:\Users\m-vas\source\repos\FactorialWithMethod\FactorialWithMethod\obj\Debug\FactorialWithMethod.pdb
